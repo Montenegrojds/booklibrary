@@ -8,7 +8,7 @@ pip install -r requirements.txt
 
 ### Start Web Server
 
-```
+
 Next run the django web server.
 ```bash
 python manage.py runserver
